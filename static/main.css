@@ -33,6 +33,14 @@ p {
   font-size: 22px;
   line-height: 30px;
 }
+ul {
+    list-style-type: circle;
+    font-family: Averta, sans-serif;
+    color: #fff;
+    font-size: 22px;
+    line-height: 30px;
+}
+
 
 a {
   -webkit-transition: border-color 200ms ease, color 200ms ease;
