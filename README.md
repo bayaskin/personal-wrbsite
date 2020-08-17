@@ -1,6 +1,6 @@
 # My personal website
 
-Simple personal website [bayaskhalantsyzhipov.com] built with Python and [Flask](http://flask.pocoo.org/).
+Simple personal website [bayaskhalantsyzhipov.com](https://bayaskhalantsyzhipov.com/) built with Python and [Flask](http://flask.pocoo.org/).
 The deploy is done with [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/) and [Netlify](https://www.netlify.com/).
 
 ## Deployment
