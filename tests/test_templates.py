@@ -1,13 +1,10 @@
 import pytest
-from .myapp import app
+from ..myapp import app
 
 @pytest.fixture
 def test_client():
     flask_app = app.test_client()
     return flask_app
-
-def setUp(client):
-    response = client.get('/')
 
 def test_home_page(test_client):
     """

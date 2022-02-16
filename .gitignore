@@ -1,2 +1,5 @@
 venv
+venv_old
 __pycache__
+.DS_Store
+templates/home.html.old
